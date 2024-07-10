@@ -189,6 +189,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="34822720ico.ico" />
+    <Content Include="Screenshots\MainForm.png" />
+    <Content Include="Screenshots\ProfileRegistration.png" />
+    <Content Include="Screenshots\SellerForm.png" />
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />
